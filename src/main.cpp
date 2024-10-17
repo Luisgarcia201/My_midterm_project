@@ -36,9 +36,6 @@ int main() {
             case 3:
                 std::cout << "Thank you for using the system!" << endl;
                 break;
-
-            case 4:
-                return 0;
             default:
                 std::cout << "Invalid choice!" << endl;
             
